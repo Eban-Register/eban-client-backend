@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:eban-client-backend}/data/eban.db",
+            "name": "eban-client"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
